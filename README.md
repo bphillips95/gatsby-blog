@@ -1,3 +1,6 @@
+Practicing using Gatsby, at some point a page to host blogs possibly.
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
