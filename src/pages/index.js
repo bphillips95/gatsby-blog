@@ -15,7 +15,8 @@ const IndexPage = () => (
     <Link to="/page-2/">Mutating JS strings</Link><br/>
     <Link to="/page-3/">The people of Programming</Link><br/>
     <Link to="/page-4/">Using Spotify in CLI</Link><br/>
-    <Link to="/page-5/">Ruby: Class, Instance and Local variables</Link>
+    <Link to="/page-5/">Ruby: Class, Instance and Local variables</Link><br/><br/>
+    <Link to="/about/">About Me</Link>
   </Layout>
 )
 
