@@ -9,12 +9,13 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <h2>A software blog by Baruch Phillips</h2>
-    {/* <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p> */}
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
-    <Link to="/page-2/">Go to page 2</Link>
+    <Link to="/page-2/">Mutating JS strings</Link><br/>
+    <Link to="/page-3/">The people of Programming</Link><br/>
+    <Link to="/page-4/">Using Spotify in CLI</Link><br/>
+    <Link to="/page-5/">Ruby: Class, Instance and Local variables</Link>
   </Layout>
 )
 
